@@ -1,0 +1,22 @@
+{
+	"version":"1.0.6",
+	"name":"Help Desk App",
+	"description":"Help Desk App",
+	"launch_path":"index.html",
+	"icons":{"16":null,
+	"48":"res/support.png",
+	"128":null
+	},
+	"developer":{
+	"url":"",
+	"name":"Richard Osaga",
+	"email":"osagarichard4@gmail.com"
+	},
+	"installs_allowed_from":null,
+	"default_locale":"en",
+	"activities": {
+		"dhis": {
+	  		"href": "*"
+		}
+	}
+}
